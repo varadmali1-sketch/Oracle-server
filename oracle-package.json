@@ -1,0 +1,13 @@
+{
+  "name": "oracle-god-server",
+  "version": "1.0.0",
+  "description": "ORACLE GOD — 24/7 Forward Testing Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
